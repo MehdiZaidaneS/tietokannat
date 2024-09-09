@@ -1,7 +1,7 @@
 Relaatiotietokannan peruskäsitteiden harjoitukset
 
-Tehtävä 1: 5.
-Tehtävä 2: 5.
+### Tehtävä 1: 5.
+### Tehtävä 2: 5.
 Tehtävä 3: ident.
 Tehtävä 4: varchar.
 Tehtävä 5: iso_country
