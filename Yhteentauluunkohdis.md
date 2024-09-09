@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0258d230-8cad-43e9-a099-7308ca287a37)Yhteen tauluun kohdistuvien kyselyiden harjoitukset
+Yhteen tauluun kohdistuvien kyselyiden harjoitukset
 
 ### Tehtävä 1
 SELECT * FROM goal;
