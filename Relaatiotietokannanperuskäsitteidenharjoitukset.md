@@ -24,7 +24,7 @@ Relaatiotietokannan peruskäsitteiden harjoitukset
 ### Tehtävä 22: location
 ### Tehtävä 23: goal_reached
 ### Tehtävä 24:  goal_id, game_id
-### Tehtävä 25: ### 
+### Tehtävä 25: 2
 
 
 
